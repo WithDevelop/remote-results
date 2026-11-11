@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Remote Results</title>
+<meta name="robots" content="noindex">
+<style>
+  :root { --bg: #f6f3ee; --card: #ffffff; --ink: #2b2622; --sub: #7a7068; --line: #e4ddd3; --accent: #e5735c; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #171513; --card: #221f1c; --ink: #eee8e1; --sub: #a59a8f; --line: #36312c; --accent: #f08a74; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 -apple-system, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif; }
+  header { padding: 22px 16px 8px; max-width: 880px; margin: 0 auto; }
+  h1 { font-size: 22px; margin: 0; }
+  header p { margin: 4px 0 0; color: var(--sub); font-size: 14px; }
+  main { max-width: 880px; margin: 0 auto; padding: 8px 16px 48px; }
+  .day { margin: 22px 0 8px; color: var(--sub); font-size: 13px; font-weight: 600; letter-spacing: .04em; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; margin-bottom: 14px; }
+  .card video, .card img { display: block; width: 100%; height: auto; background: #000; }
+  .body { padding: 12px 14px 14px; }
+  .title { font-weight: 700; font-size: 17px; margin: 0; }
+  .note { color: var(--sub); font-size: 14px; margin: 4px 0 0; white-space: pre-wrap; }
+  .files { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 8px; }
+  .files a { color: var(--accent); text-decoration: none; font-size: 14px; border: 1px solid var(--line); border-radius: 999px; padding: 5px 12px; }
+  .empty { color: var(--sub); padding: 40px 0; text-align: center; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Remote Results</h1>
+  <p>Claude Code Remote Control 작업 결과물 · 최신순</p>
+</header>
+<main id="list"><p class="empty">불러오는 중…</p></main>
+<script>
+const VIDEO = /\.(mp4|webm|mov)$/i, IMAGE = /\.(png|jpe?g|gif|webp|svg)$/i;
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const enc = (p) => p.split('/').map(encodeURIComponent).join('/');
+fetch('manifest.json', { cache: 'no-store' }).then((r) => r.json()).then((items) => {
+  const el = document.getElementById('list');
+  if (!items.length) { el.innerHTML = '<p class="empty">아직 결과물이 없습니다.</p>'; return; }
+  items.sort((a, b) => (b.time || '').localeCompare(a.time || ''));
+  let html = '', day = '';
+  for (const it of items) {
+    const d = (it.time || '').slice(0, 10);
+    if (d !== day) { day = d; html += `<div class="day">${esc(d)}</div>`; }
+    const main = it.files.find((f) => VIDEO.test(f)) || it.files.find((f) => IMAGE.test(f));
+    let media = '';
+    if (main && VIDEO.test(main)) media = `<video src="${enc(main)}" controls playsinline preload="metadata"></video>`;
+    else if (main) media = `<img src="${enc(main)}" alt="" loading="lazy">`;
+    const links = it.files.map((f) => `<a href="${enc(f)}" download>${esc(f.split('/').pop())}</a>`).join('');
+    html += `<article class="card" id="${esc(it.id)}">${media}<div class="body"><p class="title">${esc(it.title)}</p>` +
+      (it.note ? `<p class="note">${esc(it.note)}</p>` : '') + `<div class="files">${links}</div></div></article>`;
+  }
+  el.innerHTML = html;
+  if (location.hash) document.querySelector(location.hash)?.scrollIntoView();
+}).catch(() => { document.getElementById('list').innerHTML = '<p class="empty">목록을 불러오지 못했습니다.</p>'; });
+</script>
+</body>
+</html>
