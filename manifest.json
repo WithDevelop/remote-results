@@ -7,5 +7,15 @@
   "files": [
    "outputs/2026-11-11/rain-together/함께_맞아줄_수는_있다_1920x1080.mp4"
   ]
+ },
+ {
+  "id": "2026-11-11-rain-together-v2",
+  "title": "함께 맞아줄 수는 있다 v2 (검정 머리 · 작은 자막 · 피아노)",
+  "note": "수정: 소녀 머리색 검정, 자막 60% 크기, 배경음악 Satie Gymnopédie No.1 (Robin Alciatore 연주, 퍼블릭 도메인)",
+  "time": "2026-11-11T22:25:14",
+  "files": [
+   "outputs/2026-11-11/rain-together-v2/함께_맞아줄_수는_있다_v2_1920x1080.mp4",
+   "outputs/2026-11-11/rain-together-v2/LICENSE.txt"
+  ]
  }
 ]

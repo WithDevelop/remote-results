@@ -1,0 +1,7 @@
+Background music
+- Work: Erik Satie, "Gymnopédie No. 1" (1888) — composition in the public domain
+- Performance: Robin Alciatore — recording released into the PUBLIC DOMAIN
+- Source: https://commons.wikimedia.org/wiki/File:Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg
+- License (per Wikimedia Commons file page, checked 2026-11-11): Public domain
+  -> commercial use allowed, no attribution required (credit appreciated: "Music: Erik Satie, Gymnopédie No. 1 — performed by Robin Alciatore (public domain)")
+- Used: 0:02.1–0:26.1 of the recording, 0.3 s fade-in, 3 s fade-out, loudness-normalised to -18 LUFS.
