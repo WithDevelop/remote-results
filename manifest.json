@@ -47,5 +47,14 @@
    "outputs/2026-11-12/fall-pickup-v2/헛된_넘어짐은_없었다_v2_1920x1080.mp4",
    "outputs/2026-11-12/fall-pickup-v2/LICENSE.txt"
   ]
+ },
+ {
+  "id": "2026-11-12-elevator-home",
+  "title": "오롯이 나만의 방으로",
+  "note": "손그림 스토리 영상 24초 · 배경음악은 직접 합성한 오리지널(저작권 걱정 없음)",
+  "time": "2026-11-12T23:25:51",
+  "files": [
+   "outputs/2026-11-12/elevator-home/오롯이_나만의_방으로_1920x1080.mp4"
+  ]
  }
 ]
