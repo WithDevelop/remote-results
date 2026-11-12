@@ -1,0 +1,7 @@
+Background music
+- Work: Robert Schumann, "Träumerei" (Kinderszenen, Op. 15 No. 7, 1838) — composition in the public domain
+- Performance: Musopen (https://musopen.org) recording — released into the PUBLIC DOMAIN
+- Source: https://commons.wikimedia.org/wiki/File:Robert_Schumann_-_scenes_from_childhood,_op._15_-_vii._dreaming.ogg
+- License (per Wikimedia Commons file page, checked 2026-11-12): Public domain
+  -> commercial use allowed, no attribution required (credit appreciated: "Music: Robert Schumann, Träumerei — Musopen recording (public domain)")
+- Used: 0:00.5–0:24.5 of the recording, 0.3 s fade-in, 3.5 s fade-out, loudness-normalised to -18 LUFS.
