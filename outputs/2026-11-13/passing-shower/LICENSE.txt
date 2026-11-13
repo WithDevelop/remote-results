@@ -1,0 +1,7 @@
+Background music
+- Work: Frédéric Chopin, Prelude Op. 28 No. 15 in D-flat major "Raindrop" (1838) — composition in the public domain (PD-old-100)
+- Performance: Giorgi Latsabidze (uploaded by the performer as own work, 2011) — recording released into the PUBLIC DOMAIN (PD-self)
+- Source: https://commons.wikimedia.org/wiki/File:Chopin_Prelude_Op_28_N_15_Giorgi_Latsabidze_performs.ogg
+- License (per Wikimedia Commons file page, checked 2026-11-13): Recording PD-self, Music PD-old-100
+  -> commercial use allowed, no attribution required (credit appreciated: "Music: Chopin, Prelude Op. 28 No. 15 — performed by Giorgi Latsabidze (public domain)")
+- Used: 0:00.3–0:24.3 of the recording, 0.3 s fade-in, 3 s fade-out, loudness-normalised to -18 LUFS.
