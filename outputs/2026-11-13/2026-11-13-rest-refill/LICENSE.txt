@@ -1,0 +1,8 @@
+배경음악: Frédéric Chopin — Nocturne in F major, Op. 15 No. 1
+연주: Luke Faulkner (Musopen)
+출처: https://commons.wikimedia.org/wiki/File:Chopin_-_Nocturne_Op._15_no._1_in_F_major.ogg
+      (원 출처 https://musopen.org/music/2255/frederic-chopin/nocturnes-op-15/)
+라이선스: CC0 1.0 (퍼블릭 도메인 헌정) — 상업적 이용 가능, 출처 표기 의무 없음. 작곡도 퍼블릭 도메인(1833년).
+확인일: 2026-11-13 (Wikimedia Commons 파일 페이지의 {{cc-zero}} 표기 확인)
+사용 구간: 2.8초부터 24초 (0.3초 페이드인, 21초부터 3초 페이드아웃, loudnorm -18 LUFS)
+  ffmpeg -ss 2.8 -t 24 -i music/chopin_nocturne_op15no1_musopen_CC0.ogg -af "afade=t=in:d=0.3,afade=t=out:st=21:d=3,loudnorm=I=-18:TP=-1.5" music_piano.wav
