@@ -1,0 +1,8 @@
+Background music
+- Work: Robert Schumann, "Von fremden Ländern und Menschen" (Of Foreign Lands and Peoples), Kinderszenen Op. 15 No. 1 (1838) — composition in the public domain (PD-old-100)
+- Performance: Musopen recording — released into the PUBLIC DOMAIN (PD-author Musopen, permission ticket 2008012110017088)
+- Source: https://commons.wikimedia.org/wiki/File:Robert_Schumann_-_scenes_from_childhood,_op._15_-_i._of_foreign_lands_and_peoples.ogg
+- License (per Wikimedia Commons file page, checked 2026-11-13): Music PD-old-100, Recording PD-author (Musopen)
+  -> commercial use in films allowed. Musopen asks, as a courtesy, that derived works credit Musopen:
+     "Music: Schumann, Kinderszenen Op. 15 No. 1 — recording courtesy of Musopen (public domain)"
+- Used: 0:00.5–0:24.5 of the recording, 0.3 s fade-in, 3 s fade-out, loudness-normalised to -18 LUFS.
