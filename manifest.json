@@ -96,5 +96,15 @@
    "outputs/2026-11-13/daughter-world/네 세상을 펼쳐보렴_1920x1080.mp4",
    "outputs/2026-11-13/daughter-world/LICENSE.txt"
   ]
+ },
+ {
+  "id": "2026-11-14-daughter-world-shorts",
+  "title": "딸아, 마음껏 네 세상을 펼쳐보렴 (쇼츠 9:16 테스트)",
+  "note": "유튜브 쇼츠용 세로 1080x1920 버전 - 자막/서명 크게, 카메라가 아이를 따라간다",
+  "time": "2026-11-14T21:25:26",
+  "files": [
+   "outputs/2026-11-14/daughter-world-shorts/네 세상을 펼쳐보렴_1080x1920.mp4",
+   "outputs/2026-11-14/daughter-world-shorts/LICENSE.txt"
+  ]
  }
 ]
