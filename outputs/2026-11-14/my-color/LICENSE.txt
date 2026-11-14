@@ -1,0 +1,8 @@
+Background music
+- Work: Robert Schumann, "Der Dichter spricht" (The Poet Speaks), Kinderszenen Op. 15 No. 13 (1838) — composition in the public domain (PD-old)
+- Performance: Musopen recording — released into the PUBLIC DOMAIN by its author, Musopen (VRT permission ticket #2008012110017088)
+- Source: https://commons.wikimedia.org/wiki/File:Robert_Schumann_-_scenes_from_childhood,_op._15_-_xiii._the_poet_speaks.ogg
+- License (checked on the source page, 2026-11-14): composition PD-old, recording PD-author (Musopen)
+  -> use in films, including commercial use, is allowed. Musopen asks, as a courtesy, that derived works credit Musopen:
+     "Music: Schumann, Kinderszenen Op. 15 No. 13 'Der Dichter spricht' — recording courtesy of Musopen (public domain)"
+- Used: 0:00.4-0:24.4 of the recording, 0.3 s fade-in, 3 s fade-out, loudness-normalised to -18 LUFS.
