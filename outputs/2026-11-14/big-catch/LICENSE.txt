@@ -1,0 +1,9 @@
+Background music
+- Work: Frédéric Chopin, Waltz in A-flat major, Op. 69 No. 1 "L'Adieu" (1835) — composition in the public domain (PD-old)
+- Performance: Luke Faulkner, from Musopen
+- Recording license: CC0 1.0 Universal Public Domain Dedication
+  "This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication."
+  -> usable even for commercial purposes, without asking permission; no attribution required.
+- Source page: https://commons.wikimedia.org/wiki/File:Chopin-waltz-op-69-no-1-in-a-flat-major.ogg
+- License checked on the source page: 2026-11-14
+- Used: 0:00.5-0:24.5 of the recording, 0.3 s fade-in, 3 s fade-out, loudness-normalised to -18 LUFS.
