@@ -1,0 +1,9 @@
+Background music
+- Work: Johannes Brahms, Intermezzo in A major, Op. 118 No. 2 (from Klavierstücke, 1893) — composition in the public domain (PD-old)
+- Performance: Musopen recording — released into the PUBLIC DOMAIN by its author, Musopen (VRT permission ticket #2008012110017088)
+  "This work has been released into the public domain by its author, Musopen. This applies worldwide."
+- Source: https://commons.wikimedia.org/wiki/File:Johannes_Brahms_-_klavierstucke,_op._118_-_ii._intermezzo.ogg
+- License checked on the source page: 2026-11-14
+  -> Musopen FAQ, quoted on that page: "yes you may use it in your film, you can then sell the film, containing our music."
+     Courtesy credit: "Music: Brahms, Intermezzo Op. 118 No. 2 — recording courtesy of Musopen (public domain)"
+- Used: 0:00.5-0:24.5 of the recording, 0.3 s fade-in, 3 s fade-out, loudness-normalised to -18 LUFS.
