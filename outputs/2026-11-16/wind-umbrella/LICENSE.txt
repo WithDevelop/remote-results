@@ -1,0 +1,10 @@
+Background music
+- Work: Ludwig van Beethoven, Piano Sonata No. 14 in C-sharp minor "Moonlight", Op. 27 No. 2 — I. Adagio sostenuto (1801)
+  — composition in the public domain (PD-old)
+- Performance: Musopen recording — released into the PUBLIC DOMAIN by its author, musopen.com (VRT permission ticket #2008012110017088)
+  "This work has been released into the public domain by its author, musopen.com. This applies worldwide."
+- Source: https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_sonata_no._14_in_c_sharp_minor_%27moonlight%27,_op._27_no._2_-_i._adagio_sostenuto.ogg
+- License checked on the source page: 2026-11-16
+  -> Musopen FAQ, quoted on that page: "you may use it in your film, you can then sell the film, containing our music."
+     Courtesy credit: "Music: Beethoven, Moonlight Sonata Op. 27 No. 2, I — recording courtesy of Musopen (public domain)"
+- Used: 0:00.5-0:24.5 of the recording, 0.3 s fade-in, 3 s fade-out, loudness-normalised to -18 LUFS.
