@@ -1,0 +1,9 @@
+Background music
+- Work: Frédéric Chopin, Berceuse in D-flat major, Op. 57 (1844) — composition in the public domain (PD-old)
+- Performance: Veronica van der Knaap, public concert, Christchurch, New Zealand, 2002-05-04
+  — the recording was released into the PUBLIC DOMAIN by its copyright holder ({{PD-self}} on the file page)
+- Source: https://commons.wikimedia.org/wiki/File:Chopin-Berceuse.ogg
+- License (per the Wikimedia Commons file page, checked 2026-11-17): Public domain (PD-self)
+  -> commercial use allowed, no attribution required. Courtesy credit:
+     "Music: Chopin, Berceuse Op. 57 — performed by Veronica van der Knaap (public domain)"
+- Used: 0:01.0-0:25.0 of the recording, 0.3 s fade-in, 3 s fade-out, loudness-normalised to -18 LUFS.
