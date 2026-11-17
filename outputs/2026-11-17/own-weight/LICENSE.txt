@@ -1,0 +1,9 @@
+Background music
+- Work: Frédéric Chopin, Nocturne No. 15 in F minor, Op. 55 No. 1 (1842-1844)
+  — composition in the public domain (PD-old)
+- Performance: Luke Faulkner, via Musopen (https://musopen.org/music/139/frederic-chopin/nocturnes-op-55/)
+- Source: https://commons.wikimedia.org/wiki/File:Chopin_-_Nocturne-op-55-no-1.ogg
+- License (per the Wikimedia Commons file page, checked 2026-11-17): CC0 1.0 (public domain dedication)
+  -> commercial use allowed, no attribution required. Courtesy credit:
+     "Music: Chopin, Nocturne Op. 55 No. 1 — performed by Luke Faulkner (CC0, via Musopen)"
+- Used: 0:00.5-0:24.5 of the recording, 0.3 s fade-in, 3 s fade-out, loudness-normalised to -18 LUFS.
