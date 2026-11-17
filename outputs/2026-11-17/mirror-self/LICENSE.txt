@@ -1,0 +1,10 @@
+Background music
+- Work: Robert Schumann, "Kind im Einschlummern" (Child Falling Asleep), Kinderszenen Op. 15 No. 12 (1838)
+  — composition in the public domain (PD-old)
+- Performance: Musopen (https://musopen.org) recording — released into the PUBLIC DOMAIN by its author, Musopen
+  (VRT permission ticket #2008012110017088)
+- Source: https://commons.wikimedia.org/wiki/File:Robert_Schumann_-_scenes_from_childhood,_op._15_-_xii._child_falling_asleep.ogg
+- License (per the Wikimedia Commons file page, checked 2026-11-17): Public domain
+  -> commercial use allowed, no attribution required. Courtesy credit:
+     "Music: Schumann, Kinderszenen Op. 15 No. 12 — recording courtesy of Musopen (public domain)"
+- Used: 0:00.6-0:24.6 of the recording, 0.3 s fade-in, 3 s fade-out, loudness-normalised to -18 LUFS.
