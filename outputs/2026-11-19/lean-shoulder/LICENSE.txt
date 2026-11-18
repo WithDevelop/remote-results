@@ -1,0 +1,10 @@
+Background music
+- Work: Robert Schumann, "Am Camin" (At the Fireside), Kinderszenen Op. 15 No. 8 (1838)
+  — composition in the public domain (PD-old)
+- Performance: Musopen (https://musopen.org) recording — released into the PUBLIC DOMAIN by its author, Musopen
+  (VRT permission ticket #2008012110017088)
+- Source: https://commons.wikimedia.org/wiki/File:Robert_Schumann_-_scenes_from_childhood,_op._15_-_viii._at_the_fireside.ogg
+- License (per the Wikimedia Commons file page, checked 2026-11-19): Public domain
+  -> commercial use allowed, no attribution required. Courtesy credit:
+     "Music: Schumann, Kinderszenen Op. 15 No. 8 — recording courtesy of Musopen (public domain)"
+- Used: 0:00.5-0:24.5 of the recording, 0.3 s fade-in, 3 s fade-out, loudness-normalised to -18 LUFS.
