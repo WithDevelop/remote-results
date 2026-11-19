@@ -1,0 +1,10 @@
+Background music
+- Work: Robert Schumann, "Bittendes Kind" (Pleading Child), Kinderszenen Op. 15 No. 4 (1838)
+  — composition in the public domain (PD-old-100, composer d. 1856)
+- Performance: Musopen (https://musopen.org) recording — released into the PUBLIC DOMAIN by its author, Musopen
+  (Commons tag {{PD-author|Musopen}}, VRT permission ticket #2008012110017088)
+- Source: https://commons.wikimedia.org/wiki/File:Robert_Schumann_-_scenes_from_childhood,_op._15_-_iv._pleading_child.ogg
+- License: Public domain (composition and recording) -> commercial use allowed, no attribution required.
+  Musopen asks, as a courtesy, for attribution: "Music: Musopen".
+- Checked: 2026-11-19 (file page wikitext and Commons API, LicenseShortName "Public domain")
+- Edit: first ~24 s from the start of the piece, 0.3 s fade-in, 3 s fade-out, loudness normalised to -18 LUFS.
