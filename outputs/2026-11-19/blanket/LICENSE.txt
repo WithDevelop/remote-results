@@ -1,0 +1,10 @@
+Background music
+- Work: Frédéric Chopin, Nocturne No. 21 in C minor, B. 108 (posthumous, composed 1837)
+  — composition in the public domain (PD-old, composer d. 1849)
+- Performance: Diana Hughes, recorded for Musopen's "Set Chopin Free" project (~2014)
+  — the RECORDING was released into the PUBLIC DOMAIN by Musopen ({{PD-author|Musopen}} on the file page)
+- Source: https://commons.wikimedia.org/wiki/File:Chopin_Nocturne_21_in_C_minor_Posthumous_Diana_Hughes.ogg
+- License (per the Wikimedia Commons file page, checked 2026-11-19): Public domain (recording + composition)
+  -> commercial use allowed, no attribution required. Courtesy credit:
+     "Music: Chopin, Nocturne No. 21 in C minor — performed by Diana Hughes (public domain, Musopen)"
+- Used: 0:00.6-0:24.6 of the recording, 0.3 s fade-in, 3 s fade-out, loudness-normalised to -18 LUFS.
