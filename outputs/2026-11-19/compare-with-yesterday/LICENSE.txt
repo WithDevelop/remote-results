@@ -1,0 +1,9 @@
+Background music
+- Work: Robert Schumann, "Glückes genug" (Happiness / Happy Enough), Kinderszenen Op. 15 No. 5 (1838)
+  — composition in the public domain (PD-old-100, composer d. 1856)
+- Performance: Musopen (https://musopen.org) recording — released into the PUBLIC DOMAIN by its author, Musopen
+  (Commons tag {{PD-author|Musopen}}, VRT permission ticket #2008012110017088)
+- Source: https://commons.wikimedia.org/wiki/File:Robert_Schumann_-_scenes_from_childhood,_op._15_-_v._happiness.ogg
+- License: Public domain (composition and recording). Musopen asks, as a courtesy, for attribution: "Music: Musopen".
+- Checked: 2026-11-19 (file page and Commons API, license fields "Public domain")
+- Use in this video: first 24.6 s (leading silence removed), 0.3 s fade-in, 3 s fade-out, loudnorm -18 LUFS.
