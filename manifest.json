@@ -344,5 +344,21 @@
    "outputs/2026-11-21/cracked-teacup-light/frame_4.jpg",
    "outputs/2026-11-21/cracked-teacup-light/frame_5.jpg"
   ]
+ },
+ {
+  "id": "2026-11-21-one-lap-around-the-neighborhood",
+  "title": "동네 한 바퀴만큼만 살아도 괜찮다 (리뷰용)",
+  "note": "꼭 멀리 가지 않아도 된다. 오늘은 동네 한 바퀴만큼만 살아도 괜찮다.",
+  "time": "2026-11-21T18:59:51",
+  "files": [
+   "outputs/2026-11-21/one-lap-around-the-neighborhood/동네 한 바퀴만큼만 살아도 괜찮다_1080x1920.mp4",
+   "outputs/2026-11-21/one-lap-around-the-neighborhood/LICENSE.txt",
+   "outputs/2026-11-21/one-lap-around-the-neighborhood/frame_0.jpg",
+   "outputs/2026-11-21/one-lap-around-the-neighborhood/frame_1.jpg",
+   "outputs/2026-11-21/one-lap-around-the-neighborhood/frame_2.jpg",
+   "outputs/2026-11-21/one-lap-around-the-neighborhood/frame_3.jpg",
+   "outputs/2026-11-21/one-lap-around-the-neighborhood/frame_4.jpg",
+   "outputs/2026-11-21/one-lap-around-the-neighborhood/frame_5.jpg"
+  ]
  }
 ]
