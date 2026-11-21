@@ -1,0 +1,13 @@
+Background music
+- Work: Frédéric Chopin, Nocturne in E minor, Op. posth. 72 No. 1 (composed 1827, published 1855)
+  — composition in the public domain (composer d. 1849)
+- Performance: Musopen recording from "Musopen - The Complete Chopin Collection" (performer not named by Musopen)
+  — released under CC0 1.0 (public domain dedication)
+- Source (collection page): https://archive.org/details/musopen-chopin
+  (item metadata licenseurl: http://creativecommons.org/publicdomain/zero/1.0/, uploader Musopen)
+- Audio downloaded from: https://archive.org/download/musopen-chopin/NocturneOp.72No.1InEMinor.mp3
+- Musopen work page: https://musopen.org/music/370/frederic-chopin/nocturne-in-e-minor-op-posth-72/
+- License: CC0 1.0 (recording) + public domain (composition) -> commercial use allowed, no attribution required.
+  Courtesy credit: "Recording: Musopen (CC0), via Internet Archive".
+- Checked: 2026-11-21 (archive.org metadata API: licenseurl = CC0 1.0)
+- Use in this video: 1.25 s–25.25 s of the recording (leading silence removed), 0.3 s fade-in, 3 s fade-out, loudnorm -18 LUFS.
