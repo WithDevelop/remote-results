@@ -1,0 +1,10 @@
+Background music
+- Work: Frédéric Chopin, Prelude in F major, Op. 28 No. 23 (Moderato) (1838–39)
+  — composition in the public domain (composer d. 1849)
+- Performance: Musopen recording from "Musopen - The Complete Chopin Collection" (performer not named by Musopen)
+- Source (collection page): https://archive.org/details/musopen-chopin
+  (item metadata licenseurl: http://creativecommons.org/publicdomain/zero/1.0/, uploader Musopen)
+- Audio file: https://archive.org/download/musopen-chopin/Prelude%20Op.%2028%20no.%2023.mp3
+- License: CC0 1.0 Universal (Public Domain Dedication) — free for commercial use, no attribution required
+- Checked: 2026-11-21 (archive.org item metadata API, licenseurl field = CC0 1.0)
+- Use in this video: 24 s from 0.75 s, 0.3 s fade-in, 3 s fade-out, loudness normalised to -18 LUFS
