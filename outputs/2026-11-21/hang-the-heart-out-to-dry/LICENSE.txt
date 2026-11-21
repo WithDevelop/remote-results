@@ -1,0 +1,12 @@
+Background music
+- Work: Frédéric Chopin, Prelude in B-flat major, Op. 28 No. 21 (Cantabile) (1838–39)
+  — composition in the public domain (composer d. 1849)
+- Performance: Musopen recording from "Musopen - The Complete Chopin Collection" (performer not named by Musopen)
+  — released under CC0 1.0 (public domain dedication)
+- Source (Commons file page): https://commons.wikimedia.org/wiki/File:Prelude_Op._28_no._21.mp3  (license tag {{cc-zero}}, source https://archive.org/details/musopen-chopin)
+- Audio downloaded from the original collection: https://archive.org/download/musopen-chopin/Prelude%20Op.%2028%20no.%2021.mp3
+  (collection license URL: http://creativecommons.org/publicdomain/zero/1.0/)
+- License: CC0 1.0 (recording) + public domain (composition) -> commercial use allowed, no attribution required.
+  Courtesy credit: "Recording: Musopen (CC0), via Wikimedia Commons / Internet Archive".
+- Checked: 2026-11-21 (Commons raw wikitext and archive.org metadata API)
+- Use in this video: 0.45 s–24.45 s of the recording (leading silence removed), 0.3 s fade-in, 3 s fade-out, loudnorm -18 LUFS.
