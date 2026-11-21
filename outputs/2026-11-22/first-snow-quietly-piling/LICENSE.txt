@@ -1,0 +1,8 @@
+배경음악 / Background music
+- 곡: Claude Debussy — Préludes, Livre I, No. 6 « Des pas sur la neige » (발자국, 눈 위의) (1909–10)
+- 연주: Marcelle Meyer, piano (Paris, Salle Adyar, 1956년 2월 15일 녹음; Les Discophiles Français DF 211/2)
+- 출처: Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Claude_Debussy_-_Pr%C3%A9ludes_(Livre_I)_-_VI._Des_pas_sur_la_neige_(Marcelle_Meyer,_1956).flac
+  (자료 제공: Médiathèque musicale Mahler — fonds discophiles français)
+- 라이선스: 퍼블릭 도메인 — 작곡 {{PD-old-70-1923}}, 녹음 {{PD-EU-audio}} 및 {{PD-US-record}} (출처 페이지에서 확인). 상업적 이용 가능, 저작자 표시 불요.
+- 사용 구간: 1.8초부터 약 24초 (앞 0.3초 페이드 인, 끝 3.2초 페이드 아웃, loudnorm -18 LUFS)
+- 확인 날짜: 2026-11-22
