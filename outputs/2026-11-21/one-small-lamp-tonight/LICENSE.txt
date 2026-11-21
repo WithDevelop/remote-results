@@ -1,0 +1,12 @@
+Background music
+- Work: Frédéric Chopin, Nocturne in A-flat major, Op. 32 No. 2 (1836–37)
+  — composition in the public domain (composer d. 1849)
+- Performance: Musopen recording from "Musopen - The Complete Chopin Collection" (performer not named by Musopen)
+  — released under CC0 1.0 Universal (public domain dedication)
+- Source (collection page): https://archive.org/details/musopen-chopin
+  (item metadata licenseurl: http://creativecommons.org/publicdomain/zero/1.0/, uploader Musopen)
+- Audio file: https://archive.org/download/musopen-chopin/Nocturne%20Op.%2032%20no.%202%20in%20A%20flat%20major.mp3
+- Used excerpt: 0:14.0–0:38.2 of the recording (start of the main melody, after the opening chords),
+  0.3 s fade-in, 3 s fade-out, loudness normalised to -18 LUFS.
+- License: CC0 1.0 -> commercial use allowed, no attribution required. Courtesy credit: "Music: Musopen".
+- Checked: 2026-11-21 (archive.org item metadata, licenseurl field = CC0 1.0)
