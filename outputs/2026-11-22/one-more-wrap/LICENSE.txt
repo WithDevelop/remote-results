@@ -1,0 +1,10 @@
+Background music
+- Work: Frédéric Chopin, Nocturne in G major, Op. 37 No. 2 (1839)
+  — composition in the public domain (composer d. 1849)
+- Performance: Olga Gurevich, piano (Musopen recording, https://musopen.org/music/download/12225/)
+- Source (archive.org item): https://archive.org/details/parso-1c53a71e4ef6f47591ab605d801bc3780b27824a
+  (item metadata licenseurl: http://creativecommons.org/publicdomain/zero/1.0/deed.en; description: "Attribution: Musopen ... License: CC0")
+- Audio file: https://archive.org/download/parso-1c53a71e4ef6f47591ab605d801bc3780b27824a/000_Chopin_Nocturne_Op_37_no_2_in_G_major_Olga_Gurevich.mp3
+- License: CC0 1.0 Universal (Public Domain Dedication) — free for commercial use, no attribution required
+- Checked: 2026-11-22 (archive.org metadata API, licenseurl field = CC0 1.0)
+- Use in this video: first 24 s, 0.3 s fade-in, 3 s fade-out, loudness normalised to -18 LUFS
