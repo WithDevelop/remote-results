@@ -776,5 +776,21 @@
    "outputs/2026-11-22/five-minute-window/frame_4.jpg",
    "outputs/2026-11-22/five-minute-window/frame_5.jpg"
   ]
+ },
+ {
+  "id": "2026-11-22-sunday-night-only-todays-share",
+  "title": "오늘 몫만 덮고 잔다 (리뷰용)",
+  "note": "일요일 저녁엔 내일 걱정을 미리 꺼내지 않는다. 오늘 밤은 오늘 몫만 덮고 잔다.",
+  "time": "2026-11-22T22:37:40",
+  "files": [
+   "outputs/2026-11-22/sunday-night-only-todays-share/오늘 몫만 덮고 잔다_1080x1920.mp4",
+   "outputs/2026-11-22/sunday-night-only-todays-share/LICENSE.txt",
+   "outputs/2026-11-22/sunday-night-only-todays-share/frame_0.jpg",
+   "outputs/2026-11-22/sunday-night-only-todays-share/frame_1.jpg",
+   "outputs/2026-11-22/sunday-night-only-todays-share/frame_2.jpg",
+   "outputs/2026-11-22/sunday-night-only-todays-share/frame_3.jpg",
+   "outputs/2026-11-22/sunday-night-only-todays-share/frame_4.jpg",
+   "outputs/2026-11-22/sunday-night-only-todays-share/frame_5.jpg"
+  ]
  }
 ]
