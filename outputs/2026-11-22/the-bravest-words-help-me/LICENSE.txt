@@ -1,0 +1,10 @@
+Background music
+- Work: Frédéric Chopin, Waltz in F minor, Op. 70 No. 2 (1841, publ. posth. 1855)
+  — composition in the public domain (composer d. 1849)
+- Performance: Musopen recording from "Musopen - The Complete Chopin Collection" (performer not named by Musopen)
+- Source (collection page): https://archive.org/details/musopen-chopin
+  (item metadata licenseurl: http://creativecommons.org/publicdomain/zero/1.0/, uploader Musopen)
+- Audio file: https://archive.org/download/musopen-chopin/Waltz%20Op.%2070%20no.%202%20in%20F%20minor.mp3
+- License: CC0 1.0 Universal (Public Domain Dedication) — free for commercial use, no attribution required
+- Checked: 2026-11-22 (archive.org item metadata API, licenseurl field = CC0 1.0)
+- Use in this video: 24.2 s from 0.55 s (opening of the piece), 0.3 s fade-in, 3 s fade-out, loudness normalised to -18 LUFS
