@@ -632,5 +632,21 @@
    "outputs/2026-11-22/one-more-wrap/frame_4.jpg",
    "outputs/2026-11-22/one-more-wrap/frame_5.jpg"
   ]
+ },
+ {
+  "id": "2026-11-22-one-step-of-light",
+  "title": "오늘은 충분하다 (리뷰용)",
+  "note": "가로등은 길 전체를 비추지 않는다. 발밑 한 걸음만 밝아도 오늘은 충분하다.",
+  "time": "2026-11-22T14:21:45",
+  "files": [
+   "outputs/2026-11-22/one-step-of-light/오늘은 충분하다_1080x1920.mp4",
+   "outputs/2026-11-22/one-step-of-light/LICENSE.txt",
+   "outputs/2026-11-22/one-step-of-light/frame_0.jpg",
+   "outputs/2026-11-22/one-step-of-light/frame_1.jpg",
+   "outputs/2026-11-22/one-step-of-light/frame_2.jpg",
+   "outputs/2026-11-22/one-step-of-light/frame_3.jpg",
+   "outputs/2026-11-22/one-step-of-light/frame_4.jpg",
+   "outputs/2026-11-22/one-step-of-light/frame_5.jpg"
+  ]
  }
 ]
