@@ -1,0 +1,11 @@
+Background music
+- Work: Frédéric Chopin, Waltz in B minor, Op. 69 No. 2 (1829, publ. posth. 1855)
+  — composition in the public domain (composer d. 1849)
+- Performance: Musopen recording from "Musopen - The Complete Chopin Collection" (performer not named by Musopen)
+- Source (collection page): https://archive.org/details/musopen-chopin
+  (collection licenseurl: http://creativecommons.org/publicdomain/zero/1.0/, uploader Musopen)
+- Audio file: https://archive.org/download/musopen-chopin/Waltz%20Op.%2069%20no.%202%20in%20B%20minor.mp3
+- License: CC0 1.0 (recording) + public domain (composition) -> commercial use allowed, no attribution required.
+  Courtesy credit: "Recording: Musopen (CC0), via Internet Archive".
+- Checked: 2026-11-22 (archive.org metadata API: licenseurl = CC0 1.0)
+- Use in this video: first 24 s of the recording (leading silence removed), 0.3 s fade-in, 3 s fade-out, loudnorm -18 LUFS.
