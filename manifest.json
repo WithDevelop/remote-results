@@ -600,5 +600,21 @@
    "outputs/2026-11-22/turn-toward-the-warmth/frame_4.jpg",
    "outputs/2026-11-22/turn-toward-the-warmth/frame_5.jpg"
   ]
+ },
+ {
+  "id": "2026-11-22-next-bus-comes-again",
+  "title": "언젠가 다시 내 앞을 지나간다 (리뷰용)",
+  "note": "버스를 놓쳐도 다음 버스는 온다. 오늘 놓친 것도 언젠가 다시 내 앞을 지나간다.",
+  "time": "2026-11-22T13:13:02",
+  "files": [
+   "outputs/2026-11-22/next-bus-comes-again/언젠가 다시 내 앞을 지나간다_1080x1920.mp4",
+   "outputs/2026-11-22/next-bus-comes-again/LICENSE.txt",
+   "outputs/2026-11-22/next-bus-comes-again/frame_0.jpg",
+   "outputs/2026-11-22/next-bus-comes-again/frame_1.jpg",
+   "outputs/2026-11-22/next-bus-comes-again/frame_2.jpg",
+   "outputs/2026-11-22/next-bus-comes-again/frame_3.jpg",
+   "outputs/2026-11-22/next-bus-comes-again/frame_4.jpg",
+   "outputs/2026-11-22/next-bus-comes-again/frame_5.jpg"
+  ]
  }
 ]
