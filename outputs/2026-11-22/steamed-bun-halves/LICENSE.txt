@@ -1,0 +1,8 @@
+배경음악 / Background music
+- 곡: Frédéric Chopin — 왈츠 내림마장조 "Sostenuto" (Waltz in E-flat major, B. 133, 1840)
+- 연주: Musopen 녹음 (The Complete Chopin Collection, Musopen / Aaron Dunn)
+- 출처: Internet Archive — https://archive.org/details/musopen-chopin
+- Audio file: https://archive.org/download/musopen-chopin/Waltz%20B.%20133%20in%20E%20flat%20major.mp3
+- 라이선스: CC0 1.0 퍼블릭 도메인 헌정 (collection licenseurl: http://creativecommons.org/publicdomain/zero/1.0/, uploader aaron@musopen.org / Musopen) — 작곡도 퍼블릭 도메인. 상업적 이용 가능, 저작자 표시 불요.
+- 사용 구간: 0.8초부터 24초 (앞 0.3초 페이드 인, 끝 3초 페이드 아웃, loudnorm -18 LUFS)
+- 확인 날짜: 2026-11-22
