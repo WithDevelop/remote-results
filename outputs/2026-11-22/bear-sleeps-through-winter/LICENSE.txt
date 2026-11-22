@@ -1,0 +1,9 @@
+배경음악 / Background music
+- 곡: Frédéric Chopin — 마주르카 내림가장조 (Mazurka in A-flat major, Op. 17 No. 3, 1832–33)
+  — 작곡은 퍼블릭 도메인 (작곡가 1849년 사망)
+- 연주: Musopen 녹음 (Musopen - The Complete Chopin Collection; Musopen은 연주자 이름을 밝히지 않음)
+- 출처(컬렉션 페이지): https://archive.org/details/musopen-chopin
+- 파일: https://archive.org/download/musopen-chopin/Mazurka%20Op.%2017%20no.%203%20in%20A%20flat%20major.mp3
+- 라이선스: CC0 1.0 퍼블릭 도메인 헌정 (컬렉션 메타데이터 licenseurl: http://creativecommons.org/publicdomain/zero/1.0/, 업로더 Musopen) — 상업적 이용 가능, 저작자 표시 불요
+- 사용 구간: 0.2초부터 24초 (앞 0.3초 페이드 인, 끝 3초 페이드 아웃, loudnorm -18 LUFS)
+- 확인 날짜: 2026-11-22
