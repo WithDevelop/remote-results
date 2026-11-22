@@ -760,5 +760,21 @@
    "outputs/2026-11-22/persimmons-left-on-top/frame_4.jpg",
    "outputs/2026-11-22/persimmons-left-on-top/frame_5.jpg"
   ]
+ },
+ {
+  "id": "2026-11-22-five-minute-window",
+  "title": "살 만하잖아 (리뷰용)",
+  "note": "하루에 5분, 5분만 숨통 트여도 살 만하잖아.",
+  "time": "2026-11-22T22:02:00",
+  "files": [
+   "outputs/2026-11-22/five-minute-window/살 만하잖아_1080x1920.mp4",
+   "outputs/2026-11-22/five-minute-window/LICENSE.txt",
+   "outputs/2026-11-22/five-minute-window/frame_0.jpg",
+   "outputs/2026-11-22/five-minute-window/frame_1.jpg",
+   "outputs/2026-11-22/five-minute-window/frame_2.jpg",
+   "outputs/2026-11-22/five-minute-window/frame_3.jpg",
+   "outputs/2026-11-22/five-minute-window/frame_4.jpg",
+   "outputs/2026-11-22/five-minute-window/frame_5.jpg"
+  ]
  }
 ]
