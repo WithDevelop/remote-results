@@ -792,5 +792,21 @@
    "outputs/2026-11-22/sunday-night-only-todays-share/frame_4.jpg",
    "outputs/2026-11-22/sunday-night-only-todays-share/frame_5.jpg"
   ]
+ },
+ {
+  "id": "2026-11-23-coloring-the-day",
+  "title": "오늘을 특별한 날로 (리뷰용)",
+  "note": "당신은 당신으로 있는 것만으로 오늘을 특별한 날로 만들었어요.",
+  "time": "2026-11-23T14:10:36",
+  "files": [
+   "outputs/2026-11-23/coloring-the-day/오늘을 특별한 날로_1080x1920.mp4",
+   "outputs/2026-11-23/coloring-the-day/LICENSE.txt",
+   "outputs/2026-11-23/coloring-the-day/frame_0.jpg",
+   "outputs/2026-11-23/coloring-the-day/frame_1.jpg",
+   "outputs/2026-11-23/coloring-the-day/frame_2.jpg",
+   "outputs/2026-11-23/coloring-the-day/frame_3.jpg",
+   "outputs/2026-11-23/coloring-the-day/frame_4.jpg",
+   "outputs/2026-11-23/coloring-the-day/frame_5.jpg"
+  ]
  }
 ]
