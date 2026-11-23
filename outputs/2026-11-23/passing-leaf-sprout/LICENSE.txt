@@ -1,0 +1,12 @@
+Background music
+- Work: Frédéric Chopin, Mazurka in A minor, Op. 68 No. 2 (composed c. 1827, published posthumously 1855)
+  — composition in the public domain (composer d. 1849)
+- Performance: Olga Gurevich (piano; tagged "OIga Gurevich" in the file), from "Musopen - The Complete Works of Frédéric Chopin (FLAC)"
+  — released by Musopen under CC0 1.0 Universal (public domain dedication)
+- Source (collection page): https://archive.org/details/musopen-chopin-complete-works-flac
+  (item metadata licenseurl: https://creativecommons.org/publicdomain/zero/1.0/)
+- Audio file: https://archive.org/download/musopen-chopin-complete-works-flac/Mazurka%20in%20A%20minor%2C%20Op.%2068%20no.%202.mp3
+- Used excerpt: 0:00.31–0:24.31 of the recording (the opening, after the leading silence),
+  0.3 s fade-in, 3 s fade-out, loudness normalised to -18 LUFS.
+- License: CC0 1.0 -> commercial use allowed, no attribution required. Courtesy credit: "Music: Musopen / Olga Gurevich".
+- Checked: 2026-11-23 (archive.org item metadata, licenseurl field = CC0 1.0; file tag artist = OIga Gurevich)
