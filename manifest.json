@@ -824,5 +824,21 @@
    "outputs/2026-11-23/collecting-sunlight-jars/frame_4.jpg",
    "outputs/2026-11-23/collecting-sunlight-jars/frame_5.jpg"
   ]
+ },
+ {
+  "id": "2026-11-23-first-boiler-night",
+  "title": "한 번에 따뜻해지지 않아도 괜찮다 (리뷰용)",
+  "note": "보일러를 처음 켠 밤, 방바닥은 천천히 데워진다. 마음도 한 번에 따뜻해지지 않아도 괜찮다.",
+  "time": "2026-11-23T16:53:31",
+  "files": [
+   "outputs/2026-11-23/first-boiler-night/한 번에 따뜻해지지 않아도 괜찮다_1080x1920.mp4",
+   "outputs/2026-11-23/first-boiler-night/LICENSE.txt",
+   "outputs/2026-11-23/first-boiler-night/frame_0.jpg",
+   "outputs/2026-11-23/first-boiler-night/frame_1.jpg",
+   "outputs/2026-11-23/first-boiler-night/frame_2.jpg",
+   "outputs/2026-11-23/first-boiler-night/frame_3.jpg",
+   "outputs/2026-11-23/first-boiler-night/frame_4.jpg",
+   "outputs/2026-11-23/first-boiler-night/frame_5.jpg"
+  ]
  }
 ]
