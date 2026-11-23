@@ -1,0 +1,11 @@
+Background music / 배경음악
+- Work: Frédéric Chopin, Étude in E major, Op. 10 No. 3 ("Tristesse") (1832)
+  — composition in the public domain (composer d. 1849)
+- Performance: Edward Neeman (piano; artist tag in the file), from "Musopen - The Complete Works of Frédéric Chopin (FLAC)"
+  — released by Musopen under CC0 1.0 Universal (public domain dedication)
+- Source (collection page): https://archive.org/details/musopen-chopin-complete-works-flac
+  (item metadata licenseurl: https://creativecommons.org/publicdomain/zero/1.0/)
+- Audio file: https://archive.org/download/musopen-chopin-complete-works-flac/Etude%20Op.%2010%2C%20no.%203%20in%20E%20major%20-%20%27Tristesse%27.mp3
+- Used excerpt: 0:00.85–0:24.85 of the recording (the opening), 0.3 s fade-in, 3 s fade-out, loudness normalised to -18 LUFS.
+- License: CC0 1.0 -> commercial use allowed, no attribution required. Courtesy credit: "Music: Musopen / Edward Neeman".
+- Checked: 2026-11-24 (archive.org item metadata, licenseurl field = CC0 1.0; file tag artist = Edward Neeman)
