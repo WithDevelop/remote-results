@@ -7,7 +7,7 @@ Background music / 배경음악
 - Source (collection page): https://archive.org/details/musopen-chopin-complete-works-flac
   (item metadata licenseurl: https://creativecommons.org/publicdomain/zero/1.0/)
 - Audio file: https://archive.org/download/musopen-chopin-complete-works-flac/Mazurka%20Op.%2067%20no.%204%20in%20A%20minor.mp3
-- Used excerpt: from 0.45 s for 24.2 s (leading silence removed), 0.3 s fade-in, 3 s fade-out, loudness normalised to -18 LUFS.
+- Used excerpt: from 0.45 s for 30.2 s (leading silence removed), 0.3 s fade-in, 3 s fade-out, loudness normalised to -18 LUFS.
 - License: CC0 1.0 (recording) + public domain (composition) -> commercial use allowed, no attribution required.
   Courtesy credit: "Music: Musopen / Olga Gurevich (CC0), via Internet Archive".
 - Checked: 2026-11-26 (archive.org metadata API: licenseurl = CC0 1.0; file tags artist = OIga Gurevich, title = Mazurka Op. 67 no. 4 in A minor)
