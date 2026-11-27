@@ -1048,5 +1048,21 @@
    "outputs/2026-11-27/comma-in-a-long-sentence/frame_4.jpg",
    "outputs/2026-11-27/comma-in-a-long-sentence/frame_5.jpg"
   ]
+ },
+ {
+  "id": "2026-11-27-reheated-tea",
+  "title": "끝난 하루는 아니다 (리뷰용)",
+  "note": "식은 차를 다시 데운다. 한 번 식었다고 끝난 하루는 아니다.",
+  "time": "2026-11-27T14:17:33",
+  "files": [
+   "outputs/2026-11-27/reheated-tea/끝난 하루는 아니다_1080x1920.mp4",
+   "outputs/2026-11-27/reheated-tea/LICENSE.txt",
+   "outputs/2026-11-27/reheated-tea/frame_0.jpg",
+   "outputs/2026-11-27/reheated-tea/frame_1.jpg",
+   "outputs/2026-11-27/reheated-tea/frame_2.jpg",
+   "outputs/2026-11-27/reheated-tea/frame_3.jpg",
+   "outputs/2026-11-27/reheated-tea/frame_4.jpg",
+   "outputs/2026-11-27/reheated-tea/frame_5.jpg"
+  ]
  }
 ]
