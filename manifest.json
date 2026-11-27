@@ -1032,5 +1032,21 @@
    "outputs/2026-11-26/comma-in-a-long-sentence/frame_4.jpg",
    "outputs/2026-11-26/comma-in-a-long-sentence/frame_5.jpg"
   ]
+ },
+ {
+  "id": "2026-11-27-comma-in-a-long-sentence",
+  "title": "이야기가 끝나지 않는다 (리뷰용)",
+  "note": "긴 문장에도 쉼표가 있다. 쉼표 하나 찍었다고 이야기가 끝나지 않는다.",
+  "time": "2026-11-27T09:46:57",
+  "files": [
+   "outputs/2026-11-27/comma-in-a-long-sentence/이야기가 끝나지 않는다_1080x1920.mp4",
+   "outputs/2026-11-27/comma-in-a-long-sentence/LICENSE.txt",
+   "outputs/2026-11-27/comma-in-a-long-sentence/frame_0.jpg",
+   "outputs/2026-11-27/comma-in-a-long-sentence/frame_1.jpg",
+   "outputs/2026-11-27/comma-in-a-long-sentence/frame_2.jpg",
+   "outputs/2026-11-27/comma-in-a-long-sentence/frame_3.jpg",
+   "outputs/2026-11-27/comma-in-a-long-sentence/frame_4.jpg",
+   "outputs/2026-11-27/comma-in-a-long-sentence/frame_5.jpg"
+  ]
  }
 ]
